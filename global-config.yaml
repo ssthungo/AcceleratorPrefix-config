@@ -19,7 +19,7 @@ snsTopics:
   topics:
     - name: Security
       emailAddresses:
-        - <security-notifications>@example.com  <----- UPDATE EMAIL ADDRESS
+        - ssthungo+aft@gmail.com
 controlTower:
   enable: true
   landingZone:
